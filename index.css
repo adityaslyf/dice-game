@@ -1,0 +1,53 @@
+.player{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.game{
+   text-align: center;
+   font-size: xx-large; 
+}
+body{
+    background-color: #393E46;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    color: #4ECCA3;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    margin: 30px;
+}
+
+.player{
+    font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 10px;
+  display: flex;
+  
+
+
+}
+footer{
+    footer
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.one{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    margin: auto;
+    
+    
+}
+/* hue{
+    margin: 10px;
+} */

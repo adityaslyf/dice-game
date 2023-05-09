@@ -1,7 +1,5 @@
 let randomNumber1 = Math.floor(Math.random()*6)+1;
 console.log(randomNumber1);
-if (randomNumber1=6){
-    document.write("hue");
-}else{
-    
+function randomNumber1(){
+    document.getElementById("hue").setAttribute("src",+ randomNumber1 + "images/dice6.png");
 }
